@@ -8,6 +8,8 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
 farcaster = "^0.7.7"
+supabase = "^1.0.3"
+openai = "^0.27.6"
 
 [tool.poetry.dev-dependencies]
 
